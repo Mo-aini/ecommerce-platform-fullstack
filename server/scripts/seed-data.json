@@ -1,0 +1,292 @@
+{
+  "categories": [
+    {
+      "name": "Electronics",
+      "slug": "electronics",
+      "description": "Headphones, keyboards, smart devices and accessories"
+    },
+    {
+      "name": "Home & Kitchen",
+      "slug": "home-kitchen",
+      "description": "Cookware, coffee gear and things for a cozy home"
+    },
+    {
+      "name": "Books",
+      "slug": "books",
+      "description": "Programming, design and self-improvement books"
+    },
+    {
+      "name": "Fashion",
+      "slug": "fashion",
+      "description": "Everyday clothing, bags and accessories"
+    },
+    {
+      "name": "Sports & Outdoors",
+      "slug": "sports-outdoors",
+      "description": "Fitness equipment and outdoor gear"
+    },
+    {
+      "name": "Beauty & Care",
+      "slug": "beauty-care",
+      "description": "Skincare and personal care essentials"
+    }
+  ],
+  "products": [
+    {
+      "name": "Aurora Wireless Headphones",
+      "category": "electronics",
+      "price": 89.99,
+      "stock": 24,
+      "image": "/images/products/aurora-wireless-headphones.svg",
+      "description": "Over-ear Bluetooth 5.3 headphones with active noise cancellation, 35-hour battery life and a foldable design."
+    },
+    {
+      "name": "Keystone 75% Mechanical Keyboard",
+      "category": "electronics",
+      "price": 74.5,
+      "stock": 18,
+      "image": "/images/products/keystone-75-mechanical-keyboard.svg",
+      "description": "75% hot-swappable mechanical keyboard with brown switches, PBT keycaps and USB-C."
+    },
+    {
+      "name": "Precision Wireless Mouse",
+      "category": "electronics",
+      "price": 29.99,
+      "stock": 40,
+      "image": "/images/products/precision-wireless-mouse.svg",
+      "description": "Ergonomic 2.4 GHz + Bluetooth mouse, 4000 DPI sensor, silent clicks, 70 days per charge."
+    },
+    {
+      "name": "Pulse Smartwatch S2",
+      "category": "electronics",
+      "price": 129.0,
+      "stock": 12,
+      "image": "/images/products/pulse-smartwatch-s2.svg",
+      "description": "AMOLED fitness smartwatch with heart-rate, SpO2, GPS and 7-day battery."
+    },
+    {
+      "name": "Nova 10\" Tablet",
+      "category": "electronics",
+      "price": 219.0,
+      "stock": 7,
+      "image": "/images/products/nova-10-tablet.svg",
+      "description": "10.1-inch Full HD tablet, 128 GB storage, quad speakers \u2014 great for notes and lectures."
+    },
+    {
+      "name": "BoomBox Mini Speaker",
+      "category": "electronics",
+      "price": 39.99,
+      "stock": 30,
+      "image": "/images/products/boombox-mini-speaker.svg",
+      "description": "Waterproof (IPX7) portable speaker with deep bass and 12-hour playtime."
+    },
+    {
+      "name": "Snap 4K Action Camera",
+      "category": "electronics",
+      "price": 99.0,
+      "stock": 9,
+      "image": "/images/products/snap-4k-action-camera.svg",
+      "description": "4K/30fps action camera with stabilization, waterproof case and two batteries."
+    },
+    {
+      "name": "PowerCore 20000 Power Bank",
+      "category": "electronics",
+      "price": 34.99,
+      "stock": 50,
+      "image": "/images/products/powercore-20000-power-bank.svg",
+      "description": "20,000 mAh power bank with 22.5 W fast charging and USB-C PD."
+    },
+    {
+      "name": "Barista Pour-Over Coffee Set",
+      "category": "home-kitchen",
+      "price": 32.0,
+      "stock": 22,
+      "image": "/images/products/barista-pour-over-coffee-set.svg",
+      "description": "Glass dripper, 600 ml carafe and 100 paper filters for a clean, bright cup."
+    },
+    {
+      "name": "Cast Iron Dutch Oven 5L",
+      "category": "home-kitchen",
+      "price": 59.9,
+      "stock": 10,
+      "image": "/images/products/cast-iron-dutch-oven-5l.svg",
+      "description": "Enamelled cast iron pot for stews, curries and bread. Oven safe up to 250 \u00b0C."
+    },
+    {
+      "name": "Nordic Desk Lamp",
+      "category": "home-kitchen",
+      "price": 27.5,
+      "stock": 35,
+      "image": "/images/products/nordic-desk-lamp.svg",
+      "description": "LED desk lamp with 5 brightness levels, warm/cool light and a USB charging port."
+    },
+    {
+      "name": "Personal Smoothie Blender",
+      "category": "home-kitchen",
+      "price": 44.99,
+      "stock": 16,
+      "image": "/images/products/personal-smoothie-blender.svg",
+      "description": "600 W blender with two 600 ml travel bottles. Crushes ice in seconds."
+    },
+    {
+      "name": "Linen Lounge Armchair",
+      "category": "home-kitchen",
+      "price": 189.0,
+      "stock": 4,
+      "image": "/images/products/linen-lounge-armchair.svg",
+      "description": "Solid wood frame armchair with a breathable linen cover, assembled in minutes."
+    },
+    {
+      "name": "Insulated Steel Bottle 750ml",
+      "category": "home-kitchen",
+      "price": 19.99,
+      "stock": 60,
+      "image": "/images/products/insulated-steel-bottle-750ml.svg",
+      "description": "Double-wall vacuum bottle: 24 h cold, 12 h hot, leak-proof lid."
+    },
+    {
+      "name": "Clean Code (Paperback)",
+      "category": "books",
+      "price": 34.0,
+      "stock": 25,
+      "image": "/images/products/clean-code-paperback.svg",
+      "description": "Classic guide to writing readable, maintainable code with practical examples."
+    },
+    {
+      "name": "Introduction to Algorithms",
+      "category": "books",
+      "price": 79.0,
+      "stock": 8,
+      "image": "/images/products/introduction-to-algorithms.svg",
+      "description": "The standard reference on algorithms and data structures used in many universities."
+    },
+    {
+      "name": "Designing Data-Intensive Applications",
+      "category": "books",
+      "price": 45.0,
+      "stock": 14,
+      "image": "/images/products/designing-data-intensive-applications.svg",
+      "description": "How modern databases, streams and distributed systems really work."
+    },
+    {
+      "name": "The Pragmatic Programmer",
+      "category": "books",
+      "price": 38.5,
+      "stock": 20,
+      "image": "/images/products/the-pragmatic-programmer.svg",
+      "description": "Timeless advice on becoming a better, more effective software developer."
+    },
+    {
+      "name": "Dotted Notebook A5 (2-pack)",
+      "category": "books",
+      "price": 12.99,
+      "stock": 80,
+      "image": "/images/products/dotted-notebook-a5-2-pack.svg",
+      "description": "160 pages of 100 gsm dotted paper, lay-flat binding \u2014 perfect for planning."
+    },
+    {
+      "name": "Classic Oxford Shirt",
+      "category": "fashion",
+      "price": 36.0,
+      "stock": 28,
+      "image": "/images/products/classic-oxford-shirt.svg",
+      "description": "100% cotton Oxford shirt with a button-down collar. Slim fit."
+    },
+    {
+      "name": "Urban Commuter Backpack",
+      "category": "fashion",
+      "price": 54.99,
+      "stock": 19,
+      "image": "/images/products/urban-commuter-backpack.svg",
+      "description": "Water-resistant 22 L backpack with padded 15.6\" laptop sleeve and USB port."
+    },
+    {
+      "name": "Polarized Aviator Sunglasses",
+      "category": "fashion",
+      "price": 24.99,
+      "stock": 33,
+      "image": "/images/products/polarized-aviator-sunglasses.svg",
+      "description": "UV400 polarized lenses with a lightweight metal frame and case."
+    },
+    {
+      "name": "Everyday Running Sneakers",
+      "category": "fashion",
+      "price": 64.0,
+      "stock": 15,
+      "image": "/images/products/everyday-running-sneakers.svg",
+      "description": "Breathable knit upper with a cushioned sole for running and daily wear."
+    },
+    {
+      "name": "Compact Travel Umbrella",
+      "category": "fashion",
+      "price": 17.5,
+      "stock": 45,
+      "image": "/images/products/compact-travel-umbrella.svg",
+      "description": "Windproof automatic umbrella that folds to 28 cm."
+    },
+    {
+      "name": "Adjustable Dumbbell Set 20kg",
+      "category": "sports-outdoors",
+      "price": 84.0,
+      "stock": 6,
+      "image": "/images/products/adjustable-dumbbell-set-20kg.svg",
+      "description": "Pair of adjustable dumbbells, 2-10 kg each, with anti-slip grip."
+    },
+    {
+      "name": "Trail Mountain Bike Helmet",
+      "category": "sports-outdoors",
+      "price": 42.0,
+      "stock": 13,
+      "image": "/images/products/trail-mountain-bike-helmet.svg",
+      "description": "Lightweight vented helmet with an adjustable dial fit and removable visor."
+    },
+    {
+      "name": "2-Person Camping Tent",
+      "category": "sports-outdoors",
+      "price": 96.5,
+      "stock": 5,
+      "image": "/images/products/2-person-camping-tent.svg",
+      "description": "Waterproof dome tent that sets up in 5 minutes. Includes carry bag."
+    },
+    {
+      "name": "Pro Beach Volleyball",
+      "category": "sports-outdoors",
+      "price": 22.0,
+      "stock": 26,
+      "image": "/images/products/pro-beach-volleyball.svg",
+      "description": "Soft-touch synthetic leather volleyball, official size and weight."
+    },
+    {
+      "name": "Hydrating Face Serum 30ml",
+      "category": "beauty-care",
+      "price": 18.9,
+      "stock": 40,
+      "image": "/images/products/hydrating-face-serum-30ml.svg",
+      "description": "Hyaluronic acid + vitamin B5 serum for daily hydration. Fragrance free."
+    },
+    {
+      "name": "Gentle Foaming Cleanser",
+      "category": "beauty-care",
+      "price": 14.5,
+      "stock": 38,
+      "image": "/images/products/gentle-foaming-cleanser.svg",
+      "description": "pH-balanced cleanser for all skin types, 200 ml pump bottle."
+    },
+    {
+      "name": "Daily Mineral Sunscreen SPF 50",
+      "category": "beauty-care",
+      "price": 21.0,
+      "stock": 3,
+      "image": "/images/products/daily-mineral-sunscreen-spf-50.svg",
+      "description": "Lightweight mineral sunscreen, no white cast, water resistant for 40 minutes."
+    },
+    {
+      "name": "Precision Grooming Kit",
+      "category": "beauty-care",
+      "price": 27.99,
+      "stock": 21,
+      "image": "/images/products/precision-grooming-kit.svg",
+      "description": "Stainless steel grooming kit with scissors, tweezers and nail tools in a case."
+    }
+  ]
+}
